@@ -6,6 +6,9 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# Theme
+remote_theme             : "academicpages/academicpages.github.io"
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "李沣航 / Fenghang Li"
@@ -286,6 +289,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
