@@ -11,9 +11,9 @@ redirect_from:
 
 **李沣航（Fenghang Li）** · 清华大学公共管理学院2024级博士研究生
 
-研究方向：健康经济学、社会保障与应用微观计量 → 长期护理保险、住房财富与心理健康、被忽视热带疾病与人力资本
+研究方向：健康经济学、劳动经济学、发展经济学
 
-*Ph.D. student (2024 cohort), School of Public Policy and Management, Tsinghua University · Research: health economics, social security, applied microeconometrics*
+*Ph.D. student (2024 cohort), School of Public Policy and Management, Tsinghua University · Research: health economics, labor economics, development economics*
 
 ---
 
@@ -30,9 +30,6 @@ redirect_from:
 - 长期护理保险 / Long-Term Care Insurance
 - 代际流动与家庭资源配置 / Intergenerational Mobility & Household Resource Allocation
 - 应用微观计量 / Applied Microeconometrics
-  - 双重差分 (DID) / 断点回归 (RDD) / 事件研究法 (Event Study)
-  - 空间计量经济学 / Spatial Econometrics
-
 ---
 
 ## 发表论文 / Selected Publications
