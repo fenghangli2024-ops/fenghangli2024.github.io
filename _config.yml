@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "李沣航 / Fenghang Li"
 title_separator          : "|"
 name                     : &name "李沣航 (Fenghang Li)"
-description              : &description "Ph.D. student at School of Public Policy and Management, Tsinghua University. Research on social security, long-term care insurance, and intergenerational effects."
+description              : &description "Ph.D. student at School of Public Policy and Management, Tsinghua University. Research on health economics, social security, long-term care insurance, and intergenerational effects."
 url                      : https://fenghangli2024-ops.github.io
 baseurl                  : ""
 repository               : "fenghangli2024-ops/fenghangli2024-ops.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "李沣航 (Fenghang Li)"
   pronouns         : 
-  bio              : "Ph.D. student at the School of Public Policy and Management, Tsinghua University. Research on social security, long-term care insurance, and intergenerational effects."
+  bio              : "Ph.D. student at the School of Public Policy and Management, Tsinghua University. Research on health economics, social security, long-term care insurance, and intergenerational effects."
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              :
-  email            : "fenghangli@example.org"
+  email            : "lifh24@mails.tsinghua.edu.cn"
 
   # Academic websites
   arxiv            :

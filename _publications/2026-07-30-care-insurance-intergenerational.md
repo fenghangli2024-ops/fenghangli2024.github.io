@@ -1,12 +1,12 @@
 ---
-title: "中国长期护理保险的代际效应与心理健康"
+title: "Multigenerational Gains: Public Long-term Care Insurance and Mental Health in China"
 collection: publications
-permalink: /publication/long-term-care-insurance-intergenerational-effects
-excerpt: 'This working paper evaluates the causal effects of China'\''s long-term care insurance pilots on elderly mental health and examines intergenerational welfare spillovers on adult children and school-age grandchildren.'
-date: 2026-07-30
-venue: 'Working Paper (香樟青苗计划研究计划书, QM26202)'
-paperurl: 'https://fenghangli2024-ops.github.io/files/研究计划书.pdf'
-citation: '李沣航. (2026). "中国长期护理保险的代际效应与心理健康." <i>工作论文</i>, 香樟青苗计划 (QM26202).'
+permalink: /publication/ltci-multigenerational
+excerpt: 'This paper examines the intergenerational effects of China'\''s Long-Term Care Insurance on elderly mental health and welfare spillovers to adult children and school-age grandchildren.'
+date: 2026-05-01
+venue: 'Working Paper. Presented at 12th Xiangzhang Economics Annual Conference, Shanghai University of Finance and Economics, May 2026'
+paperurl: 'https://fenghangli2024-ops.github.io/files/research-proposal.pdf'
+citation: 'Li, Fenghang. (2026). "Multigenerational Gains: Public Long-term Care Insurance and Mental Health in China." <i>Working Paper</i>.'
 ---
 
 ## 摘要 / Abstract
