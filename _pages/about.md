@@ -9,11 +9,17 @@ redirect_from:
 
 ## 欢迎 / Welcome
 
-我是李沣航（Fenghang Li），清华大学公共管理学院2024级博士研究生，导师为胡鞍钢教授和刘生龙副教授。研究方向为健康经济学、社会保障与应用微观计量，重点关注长期护理保险的制度效应、住房财富与心理健康、被忽视热带疾病与人力资本积累等议题。
+**李沣航（Fenghang Li）** · 清华大学公共管理学院2024级博士研究生
 
-I am a Ph.D. student (2024 cohort) at the School of Public Policy and Management, Tsinghua University, advised by Prof. Hu Angang and Assoc. Prof. Liu Shenglong. My research interests include health economics, social security, and applied microeconometrics, with a focus on long-term care insurance, housing wealth and mental health, and neglected tropical diseases and human capital.
+研究方向：健康经济学、社会保障与应用微观计量 → 长期护理保险、住房财富与心理健康、被忽视热带疾病与人力资本
 
-📧 lifh24@mails.tsinghua.edu.cn
+*Ph.D. student (2024 cohort), School of Public Policy and Management, Tsinghua University · Research: health economics, social security, applied microeconometrics*
+
+---
+
+## 联系方式 / Contact
+
+- 📧 lifh24@mails.tsinghua.edu.cn
 
 ---
 
@@ -76,4 +82,6 @@ I am a Ph.D. student (2024 cohort) at the School of Public Policy and Management
 - **2026年5月** — 论文发表于 *Journal of Development Economics*
 - **2026年5月** — 参加第十二届香樟经济学年会（上海财经大学）并做报告
 - **2025年11月** — 论文发表于 *Health Economics*
-- 共参加学术会议5次，包括第15届 iHEA 世界健康经济学大会（南非开普敦）、留美经济学会 (CES) 2023中国年会等
+- **2025年7月** — 参加第15届 iHEA 世界健康经济学大会（南非开普敦）并做报告
+- **2023年6月** — 参加留美经济学会 (CES) 2023中国年会并做报告
+- 累计参加国内外学术会议5次，做学术报告4次
