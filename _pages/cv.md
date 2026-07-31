@@ -20,21 +20,23 @@ redirect_from:
 
 * 健康经济学 / Health Economics
 * 社会保障政策评估 / Social Security Policy Evaluation
-* 应用微观计量 / Applied Microeconometrics (DiD, RDD, Event Study)
+* 应用微观计量 / Applied Microeconometrics
 * 空间计量经济学 / Spatial Econometrics
 * 人力资本 / Human Capital
 
 ## 发表论文 / Publications
-
-### Peer-Reviewed Journal Articles (7 published)
-
 1. **Housing Wealth, Family Relationship and Mental Health: Evidence from China** (2026), *Journal of Development Economics* (SSCI). First author.
+   https://www.sciencedirect.com/science/article/pii/S0304387826001203
 2. **Neglected Tropical Diseases, Health, Education, and Cognition: Evidence from China** (2025), *Health Economics* (SSCI). First author.
-3. **Urban Land Marketization in China: the Spatio-Temporal Evolution Characteristics and Convergence Trends** (2025), *Journal of Urban Planning and Development* (SSCI). First author.
-4. **Impact of Pension Income on Healthcare Utilization of Older Adults in Rural China** (2023), *International Journal for Equity in Health* (SSCI). Co-first author.
-5. **Spatial Disequilibrium and Influencing Factors of Carbon Emission Intensity of Construction Land in China** (2023), *Journal of Cleaner Production* (SCI). Third author.
+   https://onlinelibrary.wiley.com/doi/10.1002/hec.70065
+3. **Impact of Pension Income on Healthcare Utilization of Older Adults in Rural China** (2023), *International Journal for Equity in Health* (SSCI). Co-first author.
+   https://link.springer.com/article/10.1186/s12939-023-01985-5
+4. **Spatial Disequilibrium and Influencing Factors of Carbon Emission Intensity of Construction Land in China** (2023), *Journal of Cleaner Production* (SCI). Third author.
+   https://www.sciencedirect.com/science/article/abs/pii/S0959652623006224
 6. **中国区域经济趋同的空间异质性研究——来自空间杜宾分位数面板回归的证据** (2023), *经济理论与经济管理* (CSSCI). Third author.
-7. **医保基金监管信用体系建设试点工作现况研究—来自实地调研的证据** (2023), *中国卫生经济* (北大核心). Third author.
+   https://kns.cnki.net/kcms2/article/abstract?v=gvg-iIm8s3OuTHL9It2tdJRd4phZrH8qb4b4yuHx7c00sVBKcpO_yAW2p0LIzWe03mgagTVZeUnQ8FR9RRHqQDy3Fj13aOtdRsXI7dFo0RZNieSHsdkYILF4d4U-jJ8MfvHB8yYVMoM_CnT4vKnSa2e3IghC0zhyYXB_fhg51kWrOBcAIKt0Bg==&uniplatform=NZKPT&language=CHS&anchor=citnet
+8. **医保基金监管信用体系建设试点工作现况研究—来自实地调研的证据** (2023), *中国卫生经济* (北大核心). Third author.
+   https://kns.cnki.net/kcms2/article/abstract?v=gvg-iIm8s3MKzaIruVEqvQuyU2JUP4XwE_yoDLl4e_baElhQbuZgJGffmGeBfgAYY7Y8HJxZZf7I6cigc7mSjv5p8OQqKH_bnX9x2jDIp-Osj6oeY_DT6kUx5fuWKpprNTDJufRqcow46pt8Q5CXagbK5Vx7FZesXk7vrWj9sKQeaQSQlygLnA==&uniplatform=NZKPT&language=CHS
 
 ### Working Papers
 
@@ -45,9 +47,9 @@ redirect_from:
 
 1. 12th Xiangzhang Economics Annual Conference, Shanghai University of Finance and Economics, May 2026
 2. 2nd Xiangjiang River Forum in Economics, Finance and Management for Young Scholars, Changsha, August 2023 (English session)
-3. 15th iHEA World Congress on Health Economics, Cape Town, South Africa, July 2023
+3. 15th iHEA World Congress on Health Economics, Cape Town, South Africa, July 2023 (English session)
 4. CES 2023 China Annual Conference, Wuhan, June 2023
-5. China Quantitative Economics 2021 Annual Conference, October 2021
+5. China Quantitative Economics 2021 Annual Conference, October 2021 
 
 ## 研究课题 / Research Projects
 
@@ -60,7 +62,7 @@ redirect_from:
 ## 荣誉与奖学金 / Honors & Awards
 
 * 清华大学三好学生 (2026)
-* 清华大学综合优秀奖学金 (清华之友-中交英才奖学金) (2025)
+* 清华大学综合优秀奖学金 (2025)
 * 武汉大学优秀毕业生 (2024)
 * 武汉大学优秀研究生 (2022)
 * 武汉大学优秀学业奖学金 (2022; 2023)
@@ -80,7 +82,7 @@ redirect_from:
 
 * 清华大学公管学院研究生会副主席 (2026春)
 * 清华大学国情研究院学术助研 (2024至今)
-* 2023年北京大学-耶鲁大学"健康老龄经济学"夏令营 (2023.6)
+* 2023年北京大学-耶鲁大学"健康老龄经济学"夏令营成员 (2023.6)
 * 艾社康健康咨询有限公司青年学人 (2023.1-3)
 
 ## Publications
