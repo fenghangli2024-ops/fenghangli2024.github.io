@@ -34,9 +34,9 @@ redirect_from:
 4. **Spatial Disequilibrium and Influencing Factors of Carbon Emission Intensity of Construction Land in China** (2023), *Journal of Cleaner Production* (SCI). Third author.
    https://www.sciencedirect.com/science/article/abs/pii/S0959652623006224
 6. **中国区域经济趋同的空间异质性研究——来自空间杜宾分位数面板回归的证据** (2023), *经济理论与经济管理* (CSSCI). Third author.
-   https://kns.cnki.net/kcms2/article/abstract?v=gvg-iIm8s3OuTHL9It2tdJRd4phZrH8qb4b4yuHx7c00sVBKcpO_yAW2p0LIzWe03mgagTVZeUnQ8FR9RRHqQDy3Fj13aOtdRsXI7dFo0RZNieSHsdkYILF4d4U-jJ8MfvHB8yYVMoM_CnT4vKnSa2e3IghC0zhyYXB_fhg51kWrOBcAIKt0Bg==&uniplatform=NZKPT&language=CHS&anchor=citnet
+   http://jjll.ruc.edu.cn/CN/Y2023/V43/I1/14
 8. **医保基金监管信用体系建设试点工作现况研究—来自实地调研的证据** (2023), *中国卫生经济* (北大核心). Third author.
-   https://kns.cnki.net/kcms2/article/abstract?v=gvg-iIm8s3MKzaIruVEqvQuyU2JUP4XwE_yoDLl4e_baElhQbuZgJGffmGeBfgAYY7Y8HJxZZf7I6cigc7mSjv5p8OQqKH_bnX9x2jDIp-Osj6oeY_DT6kUx5fuWKpprNTDJufRqcow46pt8Q5CXagbK5Vx7FZesXk7vrWj9sKQeaQSQlygLnA==&uniplatform=NZKPT&language=CHS
+  http: //10.27030/j.cnki.23-1042/f.2023.10.006
 
 ### Working Papers
 
