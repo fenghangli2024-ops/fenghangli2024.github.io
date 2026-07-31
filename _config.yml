@@ -23,7 +23,7 @@ repository               : "fenghangli2024-ops/fenghangli2024.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "李沣航 (Fenghang Li)"
   pronouns         : 
   bio              : "Ph.D. student at the School of Public Policy and Management, Tsinghua University. Research on health economics, social security, long-term care insurance, and intergenerational effects."
