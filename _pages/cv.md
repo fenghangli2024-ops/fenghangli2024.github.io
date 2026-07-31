@@ -12,14 +12,9 @@ redirect_from:
 ## 教育背景 / Education
 
 * **Ph.D. in Public Policy and Management**, Tsinghua University, 2024 – Present
-  * GPA 3.7/4.0
-  * Advisor: Prof. Hu Angang, Assoc. Prof. Liu Shenglong
 * **M.S. in Health Economics**, Wuhan University, 2021 – 2024
-  * Average: 90.42/100, GPA 3.57/4.0
 * **B.S. in Economics**, Zhengzhou University, 2017 – 2021
-  * Average: 89.94/100, GPA 3.84/4.0
 * **Exchange Student**, University of Lodz, Poland, 2018 – 2019
-  * GPA 5.0/5.0 (All A's)
 
 ## 研究兴趣 / Research Interests
 
