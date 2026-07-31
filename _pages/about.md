@@ -33,9 +33,6 @@ redirect_from:
 ---
 
 ## 发表论文 / Selected Publications
-
-目前已发表论文7篇（含JDE 1篇、Health Economics 1篇），工作论文2篇。
-
 1. **Housing Wealth, Family Relationship and Mental Health: Evidence from China** (2026), *Journal of Development Economics* (SSCI). [第一作者]
 2. **Neglected Tropical Diseases, Health, Education, and Cognition: Evidence from China** (2025), *Health Economics* (SSCI). [第一作者]
 3. **Urban Land Marketization in China: the Spatio-Temporal Evolution Characteristics and Convergence Trends** (2025), *Journal of Urban Planning and Development* (SSCI). [第一作者]
@@ -72,13 +69,3 @@ redirect_from:
 - 河南省三好学生 (2018-2019; 2019-2020)
 
 ---
-
-## 最新动态 / Recent News
-
-- **2026年7月** — 参加香樟青苗计划
-- **2026年5月** — 论文发表于 *Journal of Development Economics*
-- **2026年5月** — 参加第十二届香樟经济学年会（上海财经大学）并做报告
-- **2025年11月** — 论文发表于 *Health Economics*
-- **2025年7月** — 参加第15届 iHEA 世界健康经济学大会（南非开普敦）并做报告
-- **2023年6月** — 参加留美经济学会 (CES) 2023中国年会并做报告
-- 累计参加国内外学术会议5次，做学术报告4次
